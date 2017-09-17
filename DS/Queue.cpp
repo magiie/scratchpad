@@ -1,7 +1,7 @@
 /*
-    DAY 1:
-    Queue: Enqueue, Dequeue.
+    Standard Queue: Enqueue, Dequeue.
 */
+
 #include<iostream>
 using namespace std;
 int front=0, rear=0;
