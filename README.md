@@ -8,4 +8,4 @@
 * [Double-ended queue](https://github.com/meghnajaglan/scratchpad/blob/master/DS/Double-ended%20Queue.cpp)
 * [Circular queue](https://github.com/meghnajaglan/scratchpad/blob/master/DS/Circular%20queue.cpp)
 ## Linked List
-* [Singly Linked List]((https://github.com/meghnajaglan/scratchpad/blob/master/DS/Singly_Linked_List.cpp))
+* [Singly Linked List](https://github.com/meghnajaglan/scratchpad/blob/master/DS/Singly_Linked_List.cpp)
