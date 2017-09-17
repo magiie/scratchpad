@@ -1,5 +1,4 @@
 /*
-    DAY 1:
     Circular Queue: Enqueue, Dequeue, front element, size, is empty.
 */
 #include<iostream>
