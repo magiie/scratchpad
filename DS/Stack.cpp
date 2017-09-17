@@ -1,5 +1,4 @@
 /*
-    DAY 1:
     Stack: Push, Pop, Overflow, Underflow, Top Element, Size of stack.
 */
 
