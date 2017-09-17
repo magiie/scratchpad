@@ -1,7 +1,7 @@
 /*
-    DAY 1:
     Double-ended Queue: insert at back, insert at front, delete from back, delete from front, get front element, get rear element.
 */
+
 #include<iostream>
 using namespace std;
 int front=0, rear=0;
