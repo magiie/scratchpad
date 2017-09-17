@@ -1,6 +1,5 @@
 /*
-    DAY 1:
-    Balanced parenthesis problem using Stack.
+    Balanced parenthesis problem using Stack
 */
 
 #include<iostream>
